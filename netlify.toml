@@ -1,3 +1,4 @@
 [build]
+  base = "ai-excel-app"
   command = "npm run build"
   publish = "out"
